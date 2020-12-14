@@ -1,0 +1,19 @@
+body{
+margin: 0px;
+font-family: 'Kumbh Sans';
+}
+.list{
+  margin-top: 65px;
+  height: 90%;
+  width:95%;
+  position: fixed;
+  overflow-y: scroll;
+}
+.fab{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding-right:10%;
+
+  padding-bottom:  40px;
+}
